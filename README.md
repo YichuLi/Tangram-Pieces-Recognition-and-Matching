@@ -23,7 +23,7 @@
 
 In this project, We used AI search methods (uninformed search methods and Informed or heuristic search methods to **perform pattern matching and recognition** for all the 13 convex figures that we can build from all the seven tangram pieces:
 
-![Convex Figures](./picture/Convex_figures.png)
+![Convex Figures](./picture/convex_figures.png)
 
 
 
